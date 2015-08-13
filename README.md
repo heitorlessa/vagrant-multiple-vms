@@ -29,7 +29,7 @@ Make sure you already have [Vagrant installed](http://www.vagrantup.com/download
 #   ip: 172.16.100.14
 ```
 
-**Note that '#' still applies as comments. The above will create a Vagrant VM called 'nodejs' witht the above requirements and will ask what adapter you want to use for the public_network**
+**Note that '#' still applies as comments. The above will create a Vagrant VM called 'nodejs' with the above requirements and will ask what adapter you want to use for the public_network**
 
 Vagrant official reference:
 
