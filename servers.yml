@@ -1,0 +1,10 @@
+- name: nodejs
+  box: hashicorp/precise32
+  ram: 128
+  ip: dhcp
+  # playbook: "provisioning/vagrant/vagrant_server.yml"
+# - name: openvpn-client01
+#   box: hashicorp/precise32
+#   ram: 128
+#   playbook: "provisioning/vagrant/vagrant_client.yml"
+#   ip: 172.16.100.14
